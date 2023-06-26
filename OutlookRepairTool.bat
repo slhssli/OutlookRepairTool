@@ -5,7 +5,7 @@ rem Set the path to the SCANPST.EXE tool
 set SCANPST="C:\Program Files\Microsoft Office\root\Office16\SCANPST.EXE"
 
 rem Set the directories to scan for Outlook files
-set DIRS_TO_SCAN="C:\Users\alial\AppData\Local\Microsoft\Outlook"
+set DIRS_TO_SCAN="C:\Users\xxxx\AppData\Local\Microsoft\Outlook"
 
 rem Set the directory to store repair logs
 set LOG_DIR="D:\OutlookRepairLog"
