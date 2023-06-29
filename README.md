@@ -48,4 +48,4 @@ Credits
 
 This script was created by Ali Alhamed.
 
-If you have any questions or encounter any issues, please contact consult@alialhamed.com.
+If you have any questions or encounter any issues, please contact at https://alialhamed.com/contact-us/
